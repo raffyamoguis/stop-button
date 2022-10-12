@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stop-button/static/css/main.410f560e.css",
+    "main.js": "/stop-button/static/js/main.2974e5fb.js",
+    "static/js/787.2ed6ab8d.chunk.js": "/stop-button/static/js/787.2ed6ab8d.chunk.js",
+    "index.html": "/stop-button/index.html",
+    "main.410f560e.css.map": "/stop-button/static/css/main.410f560e.css.map",
+    "main.2974e5fb.js.map": "/stop-button/static/js/main.2974e5fb.js.map",
+    "787.2ed6ab8d.chunk.js.map": "/stop-button/static/js/787.2ed6ab8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.410f560e.css",
+    "static/js/main.2974e5fb.js"
+  ]
+}
